@@ -1,0 +1,5 @@
+openai
+langchain
+streamlit
+python-dotenv #use python-dotenv to load environment variables from a .env file
+PyPDF2 #use PyPDF2 to extract text from PDF files
